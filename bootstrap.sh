@@ -7,6 +7,12 @@ brew update
 # install spectacle
 brew cask install spectacle
 
+# install python 3
+brew install python3
+
+# install virtualenv for python 3
+pip3 install virtualenv
+
 # install iterm2
 brew cask install iterm2
 
@@ -28,3 +34,9 @@ brew install maven
 
 # install gradle
 brew install gradle
+
+# install virtualbox
+brew cask install virtualbox
+
+# install vagrant
+brew cask install vagrant
