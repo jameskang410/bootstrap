@@ -40,3 +40,12 @@ brew cask install virtualbox
 
 # install vagrant
 brew cask install vagrant
+
+# install VLC
+brew cask install vlc
+
+# install JQ (formats/slices JSON in command line)
+brew install jq
+
+# install unrar
+brew install unrar
